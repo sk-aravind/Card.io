@@ -2,7 +2,8 @@
   "name": "Cardio_App",
   "type": "ionic1",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "gulp": {}
   },
   "watchPatterns": [
     "scss/**/*",
