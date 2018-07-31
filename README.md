@@ -5,16 +5,16 @@ Losing a loved one is painful. Losing one through an avoidable circumstance is w
 ## What it does
 Card.io's centers around 4 key features:
 
-Monitor
+**Monitor**
 The app ties in with existing fitness wearables and logs vital statistics like BPM, activity, etc. That data can be sent to doctors for long-term observation even when the patient is at home.
 
-Manage
+**Manage**
 Card.io home allows patients to view their current health status, receive reminders on medicines, or other important routines. They can set milestones, add habits and contact their doctors, all in a bid to improve general health and reduce risk.
 
-Motivate
+**Motivate**
 Users who stick to their daily routine of check-ups, habit-building and wearing their fitness wearable can redeem rewards from a variety of health and retail partners. This gives them a genuine incentive to do well and keep to their therapy.
 
-Predict
+**Predict**
 Patient data is sent to a secure cloud server for further processing, where possible diagnosis and a heart health score is generated. This is used to alert patients or doctors to possible impending risks, and measures to take.
 ## How we built it
 We built the frontend and app functionality with the Ionic framework.
