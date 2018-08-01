@@ -7722,10 +7722,6 @@ textarea {
       -webkit-transition: opacity 0.15s ease-in, top 0.2s linear;
       transition: opacity 0.15s ease-in, top 0.2s linear; }
 
-.daily_button{
-  color: black !important;
-}
-
 textarea,
 input[type="text"],
 input[type="password"],
