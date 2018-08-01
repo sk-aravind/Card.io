@@ -1,5 +1,8 @@
 # Card.io
 
+![Card.io Screen](/readme_imgs/Screen.PNG)
+
+
 ## Inspiration
 Losing a loved one is painful. Losing one through an avoidable circumstance is worse. When Novartis offered the opportunity to build a service that helps heart disease patients monitor their symptoms and live a healthier, happier life, we knew we had to jump in.
 ## What it does
